@@ -43,3 +43,4 @@ out/
 *.gz
 *.tar
 
+application.yml
